@@ -30,7 +30,7 @@ public class Website extends AppCompatActivity {
         // Baris di bawah untuk menambahkan scrollbar di dalam WebView-nya
         webView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://rmn4scse-280909.appspot.com/");
+        webView.loadUrl("https://hanasoke.github.io/booking/");
 
     }
 }
