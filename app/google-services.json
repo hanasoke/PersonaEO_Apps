@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "542719376561",
+    "firebase_url": "https://project-bye1.firebaseio.com",
+    "project_id": "project-bye1",
+    "storage_bucket": "project-bye1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542719376561:android:ec53b11a3d0b95422bf690",
+        "android_client_info": {
+          "package_name": "com.example.bookingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542719376561-sthnvcfn3qn9mfia69msnq3ef8ek62g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookingtest",
+            "certificate_hash": "4095fff2e2fc1d3305c6acc2bb7f3ba2efbfc9b3"
+          }
+        },
+        {
+          "client_id": "542719376561-fhvnedufslc2uu5fkvcdg24eoon05759.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3bKpgm9Jvc_BWKs5txblEPEbC6uKk-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542719376561-fhvnedufslc2uu5fkvcdg24eoon05759.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542719376561:android:178676e0e2b126ef2bf690",
+        "android_client_info": {
+          "package_name": "com.example.personaeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542719376561-cssrcflfopinhb9c2m5hkob2edjp7u5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personaeo",
+            "certificate_hash": "4095fff2e2fc1d3305c6acc2bb7f3ba2efbfc9b3"
+          }
+        },
+        {
+          "client_id": "542719376561-58jlo7ovq3d4mcajr0ss1gith4j171h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personaeo",
+            "certificate_hash": "5ebbf0fdc974dc7ae24529646535a53cdb29f381"
+          }
+        },
+        {
+          "client_id": "542719376561-fhvnedufslc2uu5fkvcdg24eoon05759.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3bKpgm9Jvc_BWKs5txblEPEbC6uKk-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542719376561-fhvnedufslc2uu5fkvcdg24eoon05759.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

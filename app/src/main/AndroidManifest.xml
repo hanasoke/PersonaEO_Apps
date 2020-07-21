@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bookingtest">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".menu.Form"></activity>
+        <activity
+            android:name=".menu.Website"
+            android:label="@string/title_activity_website"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".detail.DetailWait" />
+        <activity android:name=".menu.Wait" />
+        <activity android:name=".detail.DetailComplete" />
+        <activity android:name=".menu.Complete" />
+        <activity android:name=".detail.DetailReject" />
+        <activity android:name=".menu.Reject" />
+        <activity android:name=".detail.DetailAccept" />
+        <activity android:name=".menu.Accept" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
